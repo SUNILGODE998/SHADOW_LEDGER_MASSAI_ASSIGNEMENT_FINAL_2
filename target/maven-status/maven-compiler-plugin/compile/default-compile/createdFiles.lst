@@ -1,0 +1,9 @@
+com/shadowledger/shadow_ledger_service/consumer/EventConsumer.class
+com/shadowledger/shadow_ledger_service/service/LedgerService.class
+com/shadowledger/shadow_ledger_service/ShadowLedgerServiceApplication.class
+com/shadowledger/shadow_ledger_service/repository/LedgerEventRepository.class
+com/shadowledger/shadow_ledger_service/model/LedgerEvent.class
+com/shadowledger/shadow_ledger_service/dto/EventDto.class
+com/shadowledger/shadow_ledger_service/model/EventType.class
+com/shadowledger/shadow_ledger_service/dto/ShadowBalance.class
+com/shadowledger/shadow_ledger_service/controller/LedgerController.class
